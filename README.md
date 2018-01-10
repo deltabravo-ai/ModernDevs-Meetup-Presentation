@@ -31,13 +31,18 @@ neurons = 512
 Search for research papers related to your use case.  Most of these papers assume that the reader is an expert on the machine learning concepts and the math they describe, but you can still find some useful info on what models people are trying for different use cases without understanding all the technical details.
 
 [Arxiv.org - Cornell](https://arxiv.org)
+
 [Arxiv ML Papers](https://arxiv.org/list/stat.ML/recent)
+
 [Arxiv AI Papers](https://arxiv.org/list/cs.AI/recent)
+
 [Google Scholar Search](https://scholar.google.com)
+
 
 ### Online Courses
 
 [Udacity](https://www.udacity.com)
+
 [Udemy](https://www.udemy.com)
 
 
